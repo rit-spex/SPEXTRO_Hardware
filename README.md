@@ -1,0 +1,2 @@
+# SPEXTRO_Hardware
+PCB files for SPEXTRO/IREC 2020
