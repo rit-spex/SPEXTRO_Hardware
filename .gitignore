@@ -1,0 +1,21 @@
+# Various Altium files
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
+
+#History
+History
+
+#Python stuff
+scripts/__pycache__/
+*.bak
+*.dwl
+*.dwl2
