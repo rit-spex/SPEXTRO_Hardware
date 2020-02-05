@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=XBEE_BREAKOUT.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YNUVYWGW
+
+[Document2]
 DocumentPath=XBEE_BREAKOUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNQPWSTB
 
-[Document2]
+[Document3]
 DocumentPath=..\..\..\..\Altium_Library\altium-library\symbols\RF - Module\SCH - RF - MODULE - DIGI XBEE SMT.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,9 +86,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EFHYRFSH
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\..\Altium_Library\altium-library\footprints\RF Module\PCB - RF MODULE - DIGI XBEE SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1061,37 +1078,37 @@ ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
 ComponentDesignItemID0=C0603C829D5GACAUTO
 ComponentSymbolReference0=Capacitor
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 1206
 ComponentDesignItemID1=C1206F105K5RACAUTO
 ComponentSymbolReference1=Capacitor
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID2=CRCW0603165RFKEA
+ComponentLibraryIdentifier2=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 1206
+ComponentDesignItemID2=CR1206-FX-56R0ELF
 ComponentSymbolReference2=Resistor
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=SCH - RF - MODULE - DIGI XBEE SMT.SCHLIB
-ComponentDesignItemID3=TEST
-ComponentSymbolReference3=TEST
+ComponentDesignItemID3=DIGI XBEE SMT
+ComponentSymbolReference3=DIGI XBEE SMT
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name Only
 ComponentLibraryIdentifier4=Altium Content Vault
-ComponentDesignItemID4=CMP-1502-01082-1
-ComponentSymbolReference4=WE-CN-1P-M-R10
-ComponentUpdate4=1
+ComponentDesignItemID4=CMP-1502-01102-1
+ComponentSymbolReference4=WE-CN-1P-M-R20
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name Only
 ComponentLibraryIdentifier5=Altium Content Vault
 ComponentDesignItemID5=CMP-2000-05061-1
 ComponentSymbolReference5=LED_GREEN_A1K2-2
-ComponentUpdate5=1
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1291,23 +1308,20 @@ ParameterUpdate90=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=*XCVR_XBP9X-DMUS-001
+ModelName0=61302011121
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=61301011121
+ModelName1=AVAG-HSMX-C150_V
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=AVAG-HSMX-C150_V
+ModelName2=CAP 0603_1608
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=CAP 0603_1608
+ModelName3=CAP 1206_3216 - 1.8MM
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=CAP 1206_3216 - 1.8MM
+ModelName4=RES 1206_3216
 ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=RES 0603_1608
-ModelUpdate5=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
