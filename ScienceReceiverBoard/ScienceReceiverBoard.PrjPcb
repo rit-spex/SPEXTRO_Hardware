@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPPPROPO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ScienceReceiverBoard\Design Rule Check - ScienceReceiverBoard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
