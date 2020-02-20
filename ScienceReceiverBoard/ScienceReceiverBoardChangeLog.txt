@@ -1,2 +1,6 @@
-Rev1
+Rev1a
 -Project Start
+
+Rev2a
+-Redid the board entirely to use a different connector
+
