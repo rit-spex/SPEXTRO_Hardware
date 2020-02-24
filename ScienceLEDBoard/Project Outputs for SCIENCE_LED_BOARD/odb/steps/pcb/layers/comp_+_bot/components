@@ -1,0 +1,14 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 0.35 0.6 0 N J1 SCH_-_CONNECTORS_-_3_PIN_+_SHIELD ;0=1,1=0.0000
+TOP 0 0.3890551 0.6 90 N 6 0 J1-1
+TOP 1 0.349685 0.6 90 N 2 0 J1-2
+TOP 2 0.310315 0.6 90 N 5 2 J1-3
+TOP 3 0.216811 0.4822835 0 N 5 3 J1-S1
+TOP 4 0.4825591 0.4822835 0 N 5 4 J1-S2
+#
